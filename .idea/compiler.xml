@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="itrip-manager-dao" />
+        <module name="itrip-manager-pojo" />
+        <module name="itrip-manager-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="itrip-manager" target="1.8" />
+      <module name="itrip-manager-dao" target="1.8" />
+      <module name="itrip-manager-pojo" target="1.8" />
+      <module name="itrip-manager-service" target="1.8" />
+      <module name="itrip-parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
