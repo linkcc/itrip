@@ -3,11 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/itrip.iml" filepath="$PROJECT_DIR$/.idea/itrip.iml" />
-      <module fileurl="file://$PROJECT_DIR$/itripparent/itrip-manager/itrip-manager.iml" filepath="$PROJECT_DIR$/itripparent/itrip-manager/itrip-manager.iml" />
-      <module fileurl="file://$PROJECT_DIR$/itripparent/itrip-manager/itrip-manager-dao/itrip-manager-dao.iml" filepath="$PROJECT_DIR$/itripparent/itrip-manager/itrip-manager-dao/itrip-manager-dao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/itripparent/itrip-manager/itrip-manager-pojo/itrip-manager-pojo.iml" filepath="$PROJECT_DIR$/itripparent/itrip-manager/itrip-manager-pojo/itrip-manager-pojo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/itripparent/itrip-manager/itrip-manager-service/itrip-manager-service.iml" filepath="$PROJECT_DIR$/itripparent/itrip-manager/itrip-manager-service/itrip-manager-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/itripparent/itrip-parent.iml" filepath="$PROJECT_DIR$/itripparent/itrip-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itrip-parent/itrip-manager/itrip-manager.iml" filepath="$PROJECT_DIR$/itrip-parent/itrip-manager/itrip-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itrip-parent/itrip-manager/itrip-manager-dao/itrip-manager-dao.iml" filepath="$PROJECT_DIR$/itrip-parent/itrip-manager/itrip-manager-dao/itrip-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itrip-parent/itrip-manager/itrip-manager-pojo/itrip-manager-pojo.iml" filepath="$PROJECT_DIR$/itrip-parent/itrip-manager/itrip-manager-pojo/itrip-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itrip-parent/itrip-manager/itrip-manager-service/itrip-manager-service.iml" filepath="$PROJECT_DIR$/itrip-parent/itrip-manager/itrip-manager-service/itrip-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itrip-parent/itrip-parent.iml" filepath="$PROJECT_DIR$/itrip-parent/itrip-parent.iml" />
     </modules>
   </component>
 </project>
